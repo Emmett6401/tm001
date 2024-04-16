@@ -17,9 +17,6 @@
   5. 새 터미널 확인 -
   6. 패키지를 설치
 ### tools
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact"/>
-</div>
     - requirements.txt가 있는 경우 
 ```bash
 pip install -r requirementx.txt
