@@ -15,23 +15,21 @@
   1. 새 폴더를 만듭니다. 
     - 스스로 만든다면 부속된 dataset, model등 구조를 완성하세요 데이터등을 모으세요     
     - git clone을 이용해서 이 코드를 복사 한다면 다음과 같이 하세요
-     
+  2. VSCode를 실행하고 터미널을 열고   
 ```bash
   git clone https://github.com/Emmett6401/tm001.git
-```
-
-    
-  3. VSCode를 실행하고 터미널을 열고
-  4. 가상환경을 만들어요 -
+``` 
+  
+  3. 가상환경을 만들어요 -
 ```bash
 conda create -n tm001 python=3.9
 ```
 
-  5. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
-  6. 새 터미널 확인 - 
+  4. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
+  5. 새 터미널 확인 - 
   
   
-  7. 패키지를 설치
+  6. 패키지를 설치
 ### Packages
   - 1. requirements.txt가 있는 경우 
 
@@ -52,8 +50,22 @@ pip install -r requirementx.txt
   pip freeze > requirements.txt
 ```
 
-  7. 코드를 tm001.py 코드를 완성하세요 - 폴더위치등을 수정하세요 (코드는 TM에서 코드스니펫으로 가져 올수 있어요)
+  7. 코드를 tm001.py
+    - 코드를 실행해서 결과를 확인 하세요 
+    - 코드를 수정 완성하세요 - 폴더위치등을 수정하세요 (코드는 TM에서 코드스니펫으로 가져 올수 있어요) 
+
+# 4/16일 과제 17:00까지 tm002 프로젝트 완성하기
+  1. T/M에서새로운 프로젝트를 시작
+  2. 모델을 완성하고 다운로드
+  3. PyQT를 이용해서 GUI APP을 완성(당연히 가상환경을 이용)
+  4. requirements.txt 작성 (pip freeze 사용)
+  5. REPO를 새로 만들고 업로드
+  6. readme.md를 풍부하게 작성하기
+  7. 최종 REPO link를 학습 밴드에 올리기
      
+
+
+
 ## 기타 관련 지식
 ### Teachable Machine(티처블 머신)이란?
 Teachable Machine은 구글에서 만든 웹기반 노코드 인공지능 학습 툴입니다. 이미지, 사운드, 자세를 인식하도록 컴퓨터를 학습시켜서 사이트, 앱 등에 사용할 수 있는 머신러닝 모델을 쉽고 빠르게 만들 수 있습니다. 전문지식이나 코딩 능력이 필요하지 않아서 초등학생도 만들 수 있을 정도로 이해하기 쉽다는 점이 가장 큰 장점이죠!
