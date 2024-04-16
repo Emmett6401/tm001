@@ -6,6 +6,8 @@
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  이런곳에 사용하는 배지는 
+  <a herf = "https://shields.io/badge" 여기를 참조 하세요></a> 
   <br>
 </div>
 
@@ -14,22 +16,27 @@
   2. 새폴더로 이동해서 VSCode를 실행하고 터미널을 열고
   3. 가상환경을 만들어요 - conda create -n tm001 python=3.9
   4. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
-  5. 새 터미널 확인 -
+  5. 새 터미널 확인 - 
   6. 패키지를 설치
-### tools
-  - requirements.txt가 있는 경우 
+### Packages
+  - 1. requirements.txt가 있는 경우 
 
 ```bash
 pip install -r requirementx.txt
 ```
 
-  - requirementx.txt가 없는경우
+  - 2. requirementx.txt가 없는경우
 
 ```bash  
   pip install opencv-python 
   pip install pillow 
   pip install tensorflow==2.12.0
 ```
+
+  - 3. Requirements.txt를 만드는 법 (개발에 필요한 패키지를 버젼까지 저장해 놓은 중요한 문서)
+```bash
+  pip freeze > requirements.txt
+...
 
   7. 코드를 tm001.py 코드를 완성하세요 - 폴더위치등을 수정하세요 (코드는 TM에서 코드스니펫으로 가져 올수 있어요)
      
