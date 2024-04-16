@@ -4,8 +4,7 @@
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
 <div>
-    <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
-    <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
+    https://img.shields.io/badge/<python>-<티처블머신러닝을이용한모델개발>-<BACKGROUND-COLOR>?logo=<LOGO>&logoColor=<LOGO-COLOR>&style=<STYLE>      
     <a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker" alt="Docker Pulls"></a>
     <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a>
     <br>
@@ -19,7 +18,18 @@
   3. 가상환경을 만들어요 - conda create -n tm001 python=3.9
   4. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
   5. 새 터미널 확인 -
-  6. 패키지를 설치 - requirements.txt가 있는 경우 pip install -r requirements.txt
+  6. 패키지를 설치 
+    - requirements.txt가 있는 경우 
+```bash
+pip install -r requirementx.txt
+```
+  - requirementx.txt가 없는경우
+```bash  
+  pip install opencv-python 
+  pip install pillow 
+  pip install tensorflow==2.12.0
+```
+
   7. 코드를 tm001.py 코드를 완성하세요 - 폴더위치등을 수정하세요 (코드는 TM에서 코드스니펫으로 가져 올수 있어요)
      
 ## 기타 관련 지식
