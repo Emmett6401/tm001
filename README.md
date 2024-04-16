@@ -4,16 +4,11 @@
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
 <div>
-    <a href="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker" alt="Docker Pulls"></a>
-    <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a>
-    <br>
-    <a href="https://bit.ly/yolov5-paperspace-notebook"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"></a>
-    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-    <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact"/>
+    
   </div>
-"https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact
+
 ## 새프로젝트 시작하는 방법
   1. 새 폴더를 만듭니다. - 부속된 dataset, model등 구조를 완성하세요 
   2. 새폴더로 이동해서 VSCode를 실행하고 터미널을 열고
