@@ -17,11 +17,14 @@
   5. 새 터미널 확인 -
   6. 패키지를 설치
 ### tools
-    - requirements.txt가 있는 경우 
+  - requirements.txt가 있는 경우 
+
 ```bash
 pip install -r requirementx.txt
 ```
+
   - requirementx.txt가 없는경우
+
 ```bash  
   pip install opencv-python 
   pip install pillow 
