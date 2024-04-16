@@ -50,7 +50,7 @@ pip install -r requirementx.txt
   - 3. Requirements.txt를 만드는 법 (개발에 필요한 패키지를 버젼까지 저장해 놓은 중요한 문서)
 ```bash
   pip freeze > requirements.txt
-...
+```
 
   7. 코드를 tm001.py 코드를 완성하세요 - 폴더위치등을 수정하세요 (코드는 TM에서 코드스니펫으로 가져 올수 있어요)
      
