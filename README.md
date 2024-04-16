@@ -3,11 +3,11 @@
 ## 이 프로그램에 대한 설명
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
+### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact"/>
-    
-  </div>
+  <br>
+</div>
 
 ## 새프로젝트 시작하는 방법
   1. 새 폴더를 만듭니다. - 부속된 dataset, model등 구조를 완성하세요 
@@ -15,7 +15,11 @@
   3. 가상환경을 만들어요 - conda create -n tm001 python=3.9
   4. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
   5. 새 터미널 확인 -
-  6. 패키지를 설치 
+  6. 패키지를 설치
+### tools
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact"/>
+</div>
     - requirements.txt가 있는 경우 
 ```bash
 pip install -r requirementx.txt
