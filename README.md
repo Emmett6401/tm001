@@ -4,7 +4,7 @@
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
 <div>
-    https://img.shields.io/badge/<python>-<티처블머신러닝을이용한모델개발>-<BACKGROUND-COLOR>?logo=<LOGO>&logoColor=<LOGO-COLOR>&style=<STYLE>      
+    "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
     <a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker" alt="Docker Pulls"></a>
     <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a>
     <br>
