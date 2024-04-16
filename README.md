@@ -6,8 +6,8 @@
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=20%/>
-
-  <head>
+  <br>
+  
     <style>
         .button-style {
             display: inline-block;
@@ -32,7 +32,7 @@
             transform: translateY(4px);
         }
     </style>
-</head>
+
 
   <br><br> 이런곳에 사용하는 배지는  
   <a href="[https://www.example.com](https://shields.io/badge)" class="button-style">여기를 참조 하세요</a>
