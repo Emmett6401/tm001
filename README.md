@@ -5,7 +5,7 @@
   - 4가지 Class를 식별합니다.
 ### Languages
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=2%/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=20%/>
   <br> 이런곳에 사용하는 배지는   <br>
   <a herf = "https://shields.io/badge" 여기를 참조 하세요></a> 
   <br>
