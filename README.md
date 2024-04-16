@@ -12,6 +12,8 @@
     <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
     <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
   </div>
+"https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact
 ## 새프로젝트 시작하는 방법
   1. 새 폴더를 만듭니다. - 부속된 dataset, model등 구조를 완성하세요 
   2. 새폴더로 이동해서 VSCode를 실행하고 터미널을 열고
