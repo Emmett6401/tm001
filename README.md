@@ -6,8 +6,38 @@
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=20%/>
-  <br> 이런곳에 사용하는 배지는   <br>
-  <a herf = "https://shields.io/badge" 여기를 참조 하세요></a> 
+
+  <head>
+    <style>
+        .button-style {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            outline: none;
+            color: #fff;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #999;
+        }
+
+        .button-style:hover {background-color: #3e8e41}
+
+        .button-style:active {
+            background-color: #3e8e41;
+            box-shadow: 0 5px #666;
+            transform: translateY(4px);
+        }
+    </style>
+</head>
+
+  <br><br> 이런곳에 사용하는 배지는  
+  <a href="[https://www.example.com](https://shields.io/badge)" class="button-style">여기를 참조 하세요</a>
+
+  
   <br>
 </div>
 
