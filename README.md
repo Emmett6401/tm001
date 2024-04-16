@@ -16,11 +16,15 @@
     - git clone을 이용해서 이 코드를 복사 한다면 다음과 같이 하세요
 ```bash
   git clone https://github.com/Emmett6401/tm001.git
-...     
+```
+
+    
   3. VSCode를 실행하고 터미널을 열고
   4. 가상환경을 만들어요 - conda create -n tm001 python=3.9
   5. 가상환경과 VScode를 연결해주세요 - CTRL+SHIFT+P - select python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCODE를 종료하고 다시 시작)
   6. 새 터미널 확인 - 
+  
+  
   7. 패키지를 설치
 ### Packages
   - 1. requirements.txt가 있는 경우 
