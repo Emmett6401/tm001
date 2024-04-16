@@ -4,51 +4,10 @@
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
 ### Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=20%/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### Badge를 넣는 방법 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .button-style {
-            display: inline-block;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            text-align: center;
-            text-decoration: none;
-            outline: none;
-            color: #fff;
-            background-color: #4CAF50;
-            border: none;
-            border-radius: 15px;
-            box-shadow: 0 9px #999;
-        }
-
-        .button-style:hover {background-color: #3e8e41}
-
-        .button-style:active {
-            background-color: #3e8e41;
-            box-shadow: 0 5px #666;
-            transform: translateY(4px);
-        }
-    </style>
-</head>
-
-<body>
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="20%"/>
-  <br><br>
-  이런 곳에 사용하는 배지는
-  <a href="https://shields.io/badge" class="button-style">여기를 참조 하세요</a>
-</div>
-
-</body>
-</html>
+이런 곳에 사용하는 배지는 [여기를 참조 하세요](https://shields.io).
 
 ## 새프로젝트 시작하는 방법
   1. 새 폴더를 만듭니다. - 부속된 dataset, model등 구조를 완성하세요 
