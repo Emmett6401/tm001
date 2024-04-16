@@ -6,8 +6,12 @@
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width=20%/>
-  <br>
-  
+</div>
+
+### Badge를 넣는 방법 
+<!DOCTYPE html>
+<html>
+<head>
     <style>
         .button-style {
             display: inline-block;
@@ -32,14 +36,19 @@
             transform: translateY(4px);
         }
     </style>
+</head>
 
+<body>
 
-  <br><br> 이런곳에 사용하는 배지는  
-  <a href="[https://www.example.com](https://shields.io/badge)" class="button-style">여기를 참조 하세요</a>
-
-  
-  <br>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="20%"/>
+  <br><br>
+  이런 곳에 사용하는 배지는
+  <a href="https://shields.io/badge" class="button-style">여기를 참조 하세요</a>
 </div>
+
+</body>
+</html>
 
 ## 새프로젝트 시작하는 방법
   1. 새 폴더를 만듭니다. - 부속된 dataset, model등 구조를 완성하세요 
