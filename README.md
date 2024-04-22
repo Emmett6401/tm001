@@ -1,6 +1,7 @@
-# tm001
-### 04/16 로봇응용 SW 반 강의 : 티처블머신러닝에서만든모델을이용한파이썬프로그램 1번째
-## 이 프로그램에 대한 설명
+# tm001 
+### 04/16 까지 파이썬 강의와 AI 강의에 대한 1차 마침표입니다. 
+## 이 샘플 프로그램에 대한 설명
+  - [teachable](https://teachablemachine.withgoogle.com/) 에서 만든 인공지능 모델을 활용한 파이썬 GUI 프로그램입니다. 
   - 이 프로그램은 카메라를 사용하지 않습니다.
   - 4가지 Class를 식별합니다.
   - 성능(그림은 REPO에 Model 폴더에 올려 놓고 사용할 수 있습니다.)
@@ -9,6 +10,10 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+# 각자 프로젝트 리스트 
+
+
 
 ### Badge를 넣는 방법 
   - 이런 곳에 사용하는 배지는 [여기를 참조 하세요](https://shields.io).
